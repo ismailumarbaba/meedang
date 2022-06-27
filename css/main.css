@@ -100,6 +100,7 @@ p{
     font-size: 14px;
     color: var(--fontColor);
     margin: 1.2rem 0;
+    text-align: justify;
 }
 
 button{
